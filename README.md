@@ -31,6 +31,20 @@ The project provides a clean interface for playing and controlling audio directl
 * **JavaScript** — Music player functionality and user interactions
 
 
+## 📂 Project Structure
+
+```text
+music-player/
+├── assets/
+│   └── screenshot.png
+├── music/
+│   └── audio files
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
 ## 🎯 Learning Objectives
 
 This project was created to practice and strengthen my understanding of:
