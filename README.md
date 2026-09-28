@@ -90,15 +90,10 @@ Possible future improvements include:
 
 ## 📸 Preview
 
-> Add a screenshot of the application here.
-
-You can add your screenshot to:
-
-assets/screenshot.png
-
-Then replace this section with:
-
-![Music Player Preview](./assets/screenshot.png)
+<p align="center">
+  <img src="./assets/screenshot.png" alt="Music Player Preview" width="700">
+  <img src="./assets/screenshot2.png" alt="Music Player Preview" width="700">
+</p>
 
 
 ## 👨‍💻 Author
