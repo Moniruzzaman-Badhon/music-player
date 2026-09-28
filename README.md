@@ -43,7 +43,7 @@ music-player/
 ├── style.css
 ├── script.js
 └── README.md
-
+```
 
 ## 🎯 Learning Objectives
 
