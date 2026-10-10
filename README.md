@@ -6,6 +6,7 @@ The project provides a clean interface for playing and controlling audio directl
 
 
 ##  Preview
+Live link: https://moniruzzaman-badhon.github.io/music-player/
 
 <p align="center">
   <img src="./assets/screenshot.png" alt="Music Player Preview" width="700">
